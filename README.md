@@ -5,4 +5,5 @@ Age, gender, Income, Income Stability, Loan Amount request, number of dependents
 Machine Learning Algorithms:  Multilinear Regression, Decision Tree Regression, Random Forest Regression
 
 Programming Language: R
+
 Tools and Methodologies Used: Data Pre-processing and Cleaning, Data Transformation, R Studio
